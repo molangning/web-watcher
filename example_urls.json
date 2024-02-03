@@ -1,0 +1,11 @@
+{
+    "http://127.0.0.1:8000": {
+        "seconds": 1,
+        "ignore_headers": [
+            "Date"
+        ],
+        "request_headers": {
+            "User-Agent": "Web-Watcher"
+        }
+    }
+}
